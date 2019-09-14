@@ -1,6 +1,6 @@
-from resapi.models import Lead
+from restapi.models import Lead
 from rest_framework import viewsets, permissions
-from .serializers import LeadSerializer
+from .serializer import LeadSerializer
 
 #Lead ViewSet
 
