@@ -1,2 +1,4 @@
+node_modules
 /Pipfile
 /Pipfile.lock
+DjangoReact/db.sqlite3
